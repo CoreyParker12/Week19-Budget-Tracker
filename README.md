@@ -17,11 +17,11 @@ This application allows tthe user to keep track of their spending, either online
 
 ## Questions
 
-Deployed Heroku Site: [Application](https://tech-blog-coreyparker.herokuapp.com/)  
+Deployed Heroku Site: [Application](https://polar-cove-11847.herokuapp.com/)  
 My GitHub: [CoreyParker12](https://github.com/CoreyParker12)  
 Email: coreyparker012@gmail.com
 
 ## Homepage
 
-![Homepage](public/images/homepage.JPG)
+![Homepage](public/images/screenshot-week19.JPG)
 
